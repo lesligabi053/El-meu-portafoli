@@ -103,5 +103,14 @@ footer p {
     background-color: lightpink;
 }
 
+form label {
+    display: block;
+}
+form input,
+form textarea{
+    display: block;
+    margin-bottom: 10px;
+}
+
 
 
